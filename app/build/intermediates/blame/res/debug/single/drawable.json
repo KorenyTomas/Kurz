@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_jpy.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_jpy.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_hrk.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_hrk.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_thb.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_thb.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_brl.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_brl.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_ils.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_ils.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_inr.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_inr.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_gbp.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_gbp.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_lvl.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_lvl.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_mxn.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_mxn.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_usd.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_usd.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_bgn.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_bgn.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_try.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_try.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_hkd.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_hkd.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_ltl.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_ltl.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_cad.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_cad.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_huf.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_huf.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_sgd.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_sgd.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_ron.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_ron.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_pln.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_pln.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_cz.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_cz.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_idr.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_idr.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_eur.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_eur.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_nzd.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_nzd.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_aud.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_aud.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_dkk.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_dkk.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_xdr.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_xdr.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_sek.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_sek.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_myr.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_myr.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_nok.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_nok.png"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_rub.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_rub.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\vyuka\\tamz02\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_krw.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_krw.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_cny.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_cny.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_chf.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_chf.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_php.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_php.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flag_zar.png",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\src\\main\\res\\drawable\\flag_zar.png"
+    },
+    {
+        "merged": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Skola\\5. semestr\\TAMZ II\\NetActivity\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    }
+]
